@@ -28,7 +28,7 @@ I used a compiler CPU provided in google colab while running this project.
 Pandas  
 Numpy  
 Matplotlib  
-sci-kit learn 
+sci-kit learn                                                                                                                                                                                                               
 Pytorch
 ## Programmes  
 Python  
